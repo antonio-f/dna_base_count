@@ -1,2 +1,3 @@
-# dna_base_count
-Basic DNA base count soultions with PySpark
+# PySPark DNA base count 
+
+Basic DNA base count soultions using PySpark.
